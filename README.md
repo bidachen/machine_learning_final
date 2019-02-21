@@ -1,1 +1,1 @@
-# machine_learning_prac
+# machine_learning_practice
